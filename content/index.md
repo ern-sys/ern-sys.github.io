@@ -1,3 +1,5 @@
+--- title: 🏰 My Digital Fortress (Enggar's Base) ---
+
 # Welcome to My Documentation
 Halo bro, ini dokumentasi pelajaran dan kerjaan gue.
 
