@@ -44,9 +44,9 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 *(Lo bisa edit bagian ini setiap hari untuk memotivasi diri sendiri)*
 
 - [x] Setup Quartz & GitHub Pages
-- [ ] Dokumentasi Docker Dasar
 - [x] Automasi Backup MikroTik via Python
 - [ ] Latihan Writing IELTS Task 1
-
+- [ ] Get TEOFL Certified and i can apply to Scholarship Program
+- [ ] Learn Docker!
 ---
 *Last Updated: 2026-04-15*
