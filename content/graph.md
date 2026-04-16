@@ -1,10 +1,9 @@
 ---
 
 ---
----
-title: Graphic View
 --- 
-
+title: 🏰 Graphic View (Enggar's Base) 
+---
 # Documentations of Work x Nusa Putra and KMTech
 [[Mapping AP (Access Point) Fakultas Kedokteran]]     
 [[Autobakup Configuration MikroTik Universitas Nusa Putra]]    
