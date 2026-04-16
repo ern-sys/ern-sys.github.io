@@ -38,9 +38,18 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
     npx quartz sync
     ```
 
+ ![[Pasted image 20260416120922.png]]
+# To Do Nusa Putra x KMTech 
+*Sebuah To Do yang men-track Pekerjaan yang berada di KMTech dan Nusa Putra*
+
+- [ ] CCTV FK Building and Internet Progress
+- [ ] Implementation FreeRadius at Universitas Nusa Putra
+- [ ] Implement Docker in Server Proxmox Nusa Putra
+- [ ] Installing CCTV at Genus Building
 ---
 
-## 📈 Learning Progress Tracker
+![[Pasted image 20260416121027.png]]
+# Learning Progress Tracker
 *(Lo bisa edit bagian ini setiap hari untuk memotivasi diri sendiri)*
 
 - [x] Setup Quartz & GitHub Pages
