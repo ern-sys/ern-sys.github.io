@@ -45,7 +45,7 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 
 - [x] Setup Quartz & GitHub Pages
 - [ ] Dokumentasi Docker Dasar
-- [ ] Automasi Backup MikroTik via Python
+- [x] Automasi Backup MikroTik via Python
 - [ ] Latihan Writing IELTS Task 1
 
 ---

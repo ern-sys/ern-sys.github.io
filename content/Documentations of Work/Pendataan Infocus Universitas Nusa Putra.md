@@ -7,18 +7,86 @@ tags:
 # B BUILDING AT NUSA PUTRA UNIVERSITY
 
 ## LT 1
-
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
 ## LT 2
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
 
 ## LT 3
-----------------------
-| B.3F                    | Redup & AC kurang Dingin |
-| B3B                     | REDUP & AC KURANG DINGIN |
-| B3A                     | INFOCUS REDUP & AC NORMAL |
-| B3H                     | INFOCUS REDUP & AC KURANG DINGIN |
-| PRODI AKUNTANSI | KURANG DINGIN |
-| PRODI MANAJEMEN | KURANG DINGIN |
-| B3D                      | INFOCUS NORMAL & AC KURANG DINGIN |
 
+| Kelas           | INFOCUS | AC            |
+| :-------------- | :------ | ------------- |
+| B3F             | REDUP   | KURANG DINGIN |
+| B3B             | REDUP   | KURANG DINGIN |
+| B3A             | REDUP   | NORMAL        |
+| B3H             | REDUP   | KURANG DINGIN |
+| PRODI AKUNTANSI | ---     | KURANG DINGIN |
+| PRODI MANEJEMEN | ---     | KURANG DINGIN |
+| B3D             | NORMAL  | KURANG DINGIN |
+## LT 4
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
 
-
+## LT 5
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+# A BUILDING AT NUSA PUTRA UNIVERSITY
+## LT 2
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+## LT 3
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+## LT 4
+| Kelas | INFOCUS | AC  |
+| :---- | :------ | --- |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
+|       |         |     |
