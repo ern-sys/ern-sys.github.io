@@ -45,7 +45,7 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 - [ ] CCTV FK Building and Internet Progress
 - [ ] Implementation FreeRadius at Universitas Nusa Putra
 - [ ] Implement Docker in Server Proxmox Nusa Putra
-- [ ] Installing CCTV at Genus Building
+- [x] Installing CCTV at Genus Building
 ---
 
 ![[Pasted image 20260416121027.png]]
@@ -54,9 +54,10 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 
 - [x] Setup Quartz & GitHub Pages
 - [x] Automasi Backup MikroTik via Python
-- [ ] Latihan Writing IELTS Task 1
+- [x] Latihan Writing IELTS Task 1
+- [ ] Mastering Linux CLI + Bash Scripting
 - [ ] Get TEOFL Certified and i can apply to Scholarship Program
-- [ ] Learn Docker!
+- [ ] Learn IaC (Infrastructure as Code)
 ---
 *Last Updated: 2026-04-15*
 
