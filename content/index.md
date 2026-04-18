@@ -46,6 +46,12 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 - [ ] Implementation FreeRadius at Universitas Nusa Putra
 - [ ] Implement Docker in Server Proxmox Nusa Putra
 - [x] Installing CCTV at Genus Building
+- [ ] Reverse Proxy with Nginx NPM in Proxmox Universitas Nusa Putra
+	- [x] Installing Docker
+	- [x] Installing NPM Nginx
+	- [x] Installing Dependencies
+	- [ ] Configuration NPM
+	- [ ] Split VM/LXC to different Port
 ---
 
 ![[Pasted image 20260416121027.png]]
