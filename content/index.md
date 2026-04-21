@@ -46,12 +46,14 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 - [ ] Implementation FreeRadius at Universitas Nusa Putra
 - [ ] Implement Docker in Server Proxmox Nusa Putra
 - [x] Installing CCTV at Genus Building
-- [ ] Reverse Proxy with Nginx NPM in Proxmox Universitas Nusa Putra
+- [x] Reverse Proxy with Nginx NPM in Proxmox Universitas Nusa Putra
 	- [x] Installing Docker
 	- [x] Installing NPM Nginx
 	- [x] Installing Dependencies
-	- [ ] Configuration NPM
-	- [ ] Split VM/LXC to different Port
+	- [x] Configuration NPM
+	- [x] Split VM/LXC to different Port
+
+- [ ] 
 ---
 
 ![[Pasted image 20260416121027.png]]
@@ -73,7 +75,13 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 [[Autobakup Configuration MikroTik Universitas Nusa Putra]]    
 [[Pendataan Infocus Universitas Nusa Putra]]    
 [[Pendataan Infocus Universitas Nusa Putra|PEMERIKSAAN INFOCUS NUSA PUTRA UNIVERSITY]]    
-[[Limitasi Jaringan di Universitas Nusa Putra - VLAN10.VLAN11.VLAN12.VLAN13]]      
+[[Limitasi Jaringan di Universitas Nusa Putra - VLAN10.VLAN11.VLAN12.VLAN13]]   
+[[NPM Nginx (Reverse Proxy with One IP Public)]]
 
 # My Learning of Journey
 [[Welcome, Docker!]]
+[[My Road Map to become DevOps-Senior SysAdmin]]
+[[Permission and Users Grups III]]
+[[Permission and User Groups]]
+[[Permission and Group Part II]]
+[[20 Apr 2026 - Permission And User Groups]]
