@@ -79,9 +79,9 @@ Setiap ada update catatan di Obsidian, jangan lupa untuk melakukan sinkronisasi 
 [[NPM Nginx (Reverse Proxy with One IP Public)]]
 
 # My Learning of Journey
-[[Welcome, Docker!]]
-[[My Road Map to become DevOps-Senior SysAdmin]]
-[[Permission and Users Grups III]]
-[[Permission and User Groups]]
-[[Permission and Group Part II]]
-[[20 Apr 2026 - Permission And User Groups]]
+[[Welcome, Docker!]]  
+[[My Road Map to become DevOps-Senior SysAdmin]]  
+[[Permission and Users Grups III]]  
+[[Permission and User Groups]]  
+[[Permission and Group Part II]]  
+[[20 Apr 2026 - Permission And User Groups]]  
