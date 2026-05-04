@@ -92,10 +92,3 @@ Supaya nggak bingung, ini adalah jalan cerita dari perintah yang lo ketikkan bar
 
 --- 
 
-
-
-
-
-
-
-# REVIEW PELAJARAN ENVI VARIABLE
